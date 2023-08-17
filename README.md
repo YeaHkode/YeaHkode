@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&font=#3081F7&text=YeaHkode's%20GitHub%20&animation=twinkling&fontSize=70&desc=Welcome%20to%20YeaHkode%20World🙋🏻‍♀️&descAlignY=85&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&font=3081F7&text=YeaHkode's%20GitHub%20&animation=twinkling&fontSize=70&desc=Welcome%20to%20YeaHkode%20World🙋🏻‍♀️&descAlignY=85&descAlign=70)
 
 </br>
 
